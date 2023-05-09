@@ -1,19 +1,19 @@
 {
-    "name": "uxmansarwar/data-table",
-    "description": "data table manage array to html table conversion task with php",
-    "type": "composer-plugin",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Uxmansarwar\\DataTable\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "uxmansarwar",
-            "email": "uxmansarwar@yahoo.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+	"name": "uxmansarwar/data-table",
+	"description": "data table manage array to html table conversion task with php",
+	"type": "composer-plugin",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"Uxmansarwar\\DataTable\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "uxmansarwar",
+			"email": "uxmansarwar@yahoo.com"
+		}
+	],
+	"minimum-stability": "stable",
+	"require": {}
 }
