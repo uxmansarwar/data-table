@@ -1,7 +1,7 @@
 {
 	"name": "uxmansarwar/data-table",
 	"description": "data table manage array to html table conversion task with php",
-	"type": "composer-plugin",
+	"type": "library",
 	"license": "MIT",
 	"autoload": {
 		"psr-4": {
